@@ -3,7 +3,7 @@
 80% dos principais museus brasilienses estão concentrados na Região Administrativa do Plano Piloto.
 
 <img width="485" height="385" alt="image" src="https://github.com/user-attachments/assets/088a2bdc-28fe-4243-b302-1832c50ca20a" />
-<align ='center'> 80% dos principais museus brasilienses estão concentrados na Região Administrativa do Plano Piloto.</align>
+ 80% dos principais museus brasilienses estão concentrados na Região Administrativa do Plano Piloto.
 
 1. Museu Nacional da República - Esplanada dos Ministérios
 2. Memorial JK - Eixo Monumental
